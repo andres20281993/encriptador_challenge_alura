@@ -129,7 +129,7 @@ main {
 .mensaje {
     align-items: center;
     background: var(--white);
-    background-image: url("imagenes/detective.png");
+    background-image: url("imagenes/detective.svg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
