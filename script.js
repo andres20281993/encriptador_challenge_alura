@@ -8,6 +8,7 @@ function btnEncriptar(){
     mensaje.style.backgroundImage = "none"
 }
 
+
 function encriptar(stringEncriptada){
     let matrizCodigo = [["e", "enter"], ["i", "imes"], ["a", "ai"], ["o", "ober"], ["u","ufat"]];
     stringEncriptada = stringEncriptada.toLowerCase()
